@@ -1,4 +1,5 @@
 # Pizza vs Steak Classifier 🍕
+![image](https://github.com/user-attachments/assets/f993fe8b-5f17-4067-9dc3-b8f60a57fb66)
 
 This project uses TensorFlow and Keras to build two image classification models that distinguish between images of **pizza** and **steak**.
 
